@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SJKodehode!
+# 👋 Hi, i'm Jorgen!
 
 I'm a passionate **Web Developer** with a knack for building interactive and user-friendly web applications. I love to explore new languages, write reusable code, and create cool, engaging digital experiences.
 
